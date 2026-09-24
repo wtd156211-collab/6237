@@ -1,0 +1,11 @@
+{
+  "case_id": "case-3",
+  "note": "全是孤立节点",
+  "nodes": [
+    "b",
+    "a",
+    "c"
+  ],
+  "edges": [],
+  "crossing_bound": 3
+}

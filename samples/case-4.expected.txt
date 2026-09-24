@@ -1,0 +1,9 @@
+nodes=6
+edges=5
+layers=3
+crossings=0
+pair,0,0
+pair,1,0
+layer,0,a,b,c
+layer,1,f,e
+layer,2,d

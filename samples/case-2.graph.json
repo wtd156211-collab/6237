@@ -1,0 +1,9 @@
+{
+  "case_id": "case-2",
+  "note": "只有一个节点",
+  "nodes": [
+    "a"
+  ],
+  "edges": [],
+  "crossing_bound": 3
+}
